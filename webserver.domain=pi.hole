@@ -1,0 +1,7 @@
+All Settings >> Webserver and API settings >> webserver.domain
+pi.hole
+Value
+(string)
+
+Allowed value: <valid domain>
+
