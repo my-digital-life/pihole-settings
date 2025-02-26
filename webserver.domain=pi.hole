@@ -5,3 +5,6 @@ Value
 
 Allowed value: <valid domain>
 
+changed this setting to pi20.hole
+nslookup example.com 192.168.1.20
+Server:  pi.hole
